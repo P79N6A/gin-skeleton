@@ -36,9 +36,11 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// API version
+const VERSION = "0.0.1"
+
 // package init function
 func init() {
-
 }
 
 // Ping godoc
